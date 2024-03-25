@@ -7,6 +7,7 @@
 	<facetConcept name="_selfLink">
 		<pattern>/cmd:CMD/cmd:Header/cmd:MdSelfLink/text()</pattern>
 	</facetConcept>
+<!--	FIXME TODO: the line below is missing from the version in the docker image -->
 	<facetConcept name="cLp_fair_a1_1">
 		<pattern>/cmd:CMD/cmd:Header/cmd:MdSelfLink/text()</pattern>
 		<pattern>/cmd:CMD/cmd:Resources/cmd:ResourceProxyList/cmd:ResourceProxy/cmd:ResourceRef/text()</pattern>

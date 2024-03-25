@@ -231,6 +231,7 @@
         <allowMultipleValues>false</allowMultipleValues>
     </facet>
 
+<!--    TODO FIXME: the following line is missing from the docker image -->
     <facet name="cLp_fair_a1_1">
         <displayAs>clpFAIRField</displayAs>
         <allowMultipleValues>true</allowMultipleValues>
