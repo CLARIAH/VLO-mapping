@@ -11,7 +11,7 @@
     <provider name="DANS">
         <default>true</default>
     </provider>
-    <root name="CLARIN Partners">
+    <root name="CLARIAH Partners">
         <default>true</default>
         <!-- 
             <level/>
