@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <datasets default="false">
-    <provider name="MI">
+    <provider name="Meertens Institute - Research Collections">
         <profile>clarin.eu:cr1:p_1440426460262</profile>
         <!-- <profile/> -->
     </provider>
-    <provider name="MPI">
+    <provider name="The Language Archive">
         <level>0</level>
         <!-- <level/> -->
     </provider>
     <provider name="DANS">
         <default>true</default>
     </provider>
-    <root name="CLARIAH Partners">
+    <root name="CLARIN Partners">
         <default>true</default>
         <!-- 
             <level/>
