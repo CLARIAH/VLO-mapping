@@ -114,6 +114,10 @@
     <facet name="dataProvider">
         <displayAs>secondaryFacet</displayAs>
     </facet>
+
+    <facet name="ineo_record">
+        <displayAs>secondaryFacet</displayAs>
+    </facet>
     
     <facet name="nationalProject">
         <displayAs>secondaryFacet</displayAs>
