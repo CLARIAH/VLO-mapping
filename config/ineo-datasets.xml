@@ -2,14 +2,17 @@
 <datasets default="false">
     <provider name="Meertens Institute - Research Collections">
         <profile>clarin.eu:cr1:p_1440426460262</profile>
+        <assessment>true</assessment>
         <!-- <profile/> -->
     </provider>
     <provider name="The Language Archive">
         <level>0</level>
+        <assessment>true</assessment>
         <!-- <level/> -->
     </provider>
     <provider name="DANS">
         <default>true</default>
+        <assessment>false</assessment>
     </provider>
     <root name="CLARIN Partners">
         <default>true</default>
@@ -17,8 +20,10 @@
             <level/>
             <profile>
         -->
+        <assessment>true</assessment>
     </root>
     <root name="NDE Partners">
         <default>true</default>
+        <assessment>false</assessment>
     </root>
 </datasets>
