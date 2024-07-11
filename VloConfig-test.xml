@@ -139,7 +139,6 @@
         <field key="RECORD_PID">recordPid</field>
         <field key="RESOURCE_AVAILABILITY_SCORE">_resourceAvailabilityScore</field>
         <!-- if key present here, it will be processed by post processor, otherwise not -->
-        <field key="FAIR_A_1_1">cLp_fair_a1_1</field>
     </fields>
 
     <deprecatedFields>
