@@ -235,10 +235,6 @@
         <displayAs>primaryFacet</displayAs>
     </facet>
 
-    <facet name="fair_score">
-        <displayAs>primaryFacet</displayAs>
-    </facet>
-
     <facet name="metadataSource">
         <displayAs>technicalField</displayAs>
     </facet>
