@@ -563,6 +563,7 @@
 	<facetConcept name="format">
 		<concept>http://hdl.handle.net/11459/CCR_C-2571_2be2e583-e5af-34c2-3673-93359ec1f7df</concept>
 		<concept>http://purl.org/dc/terms/format</concept>
+		<concept>http://www.w3.org/ns/dcat#mediaType</concept>
 	</facetConcept>
 	<facetConcept name="text">
 		<pattern>/cmd:CMD/cmd:Header//text()</pattern>
